@@ -1,0 +1,9 @@
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppClient\bin\Debug\PetrolinkAppClient.exe.config
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppClient\bin\Debug\PetrolinkAppClient.exe
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppClient\bin\Debug\PetrolinkAppClient.pdb
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppClient\obj\Debug\PetrolinkAppClient.client.resources
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppClient\obj\Debug\PetrolinkAppClient.Properties.Resources.resources
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppClient\obj\Debug\PetrolinkAppClient.csproj.GenerateResource.Cache
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppClient\obj\Debug\PetrolinkAppClient.exe
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppClient\obj\Debug\PetrolinkAppClient.pdb
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppClient\obj\Debug\PetrolinkAppClient.csprojResolveAssemblyReference.cache

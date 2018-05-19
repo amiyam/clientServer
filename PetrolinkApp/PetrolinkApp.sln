@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetrolinkAppClient", "PetrolinkAppClient\PetrolinkAppClient.csproj", "{8D41D884-0F67-4FF8-9EA9-A4004FE7F507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetrolinkAppServer", "PetrolinkAppServer\PetrolinkAppServer.csproj", "{5B4E63AC-88BD-4269-B99F-88DFEF1B1544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D41D884-0F67-4FF8-9EA9-A4004FE7F507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D41D884-0F67-4FF8-9EA9-A4004FE7F507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D41D884-0F67-4FF8-9EA9-A4004FE7F507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D41D884-0F67-4FF8-9EA9-A4004FE7F507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B4E63AC-88BD-4269-B99F-88DFEF1B1544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4E63AC-88BD-4269-B99F-88DFEF1B1544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4E63AC-88BD-4269-B99F-88DFEF1B1544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4E63AC-88BD-4269-B99F-88DFEF1B1544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

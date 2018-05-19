@@ -1,0 +1,10 @@
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppServer\bin\Debug\PetrolinkAppServer.exe
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppServer\bin\Debug\PetrolinkAppServer.exe.config
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppServer\obj\Debug\PetrolinkAppServer.Properties.Resources.resources
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppServer\obj\Debug\PetrolinkAppServer.server.resources
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppServer\obj\Debug\PetrolinkAppServer.csproj.GenerateResource.Cache
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppServer\obj\Debug\PetrolinkAppServer.exe
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppServer\obj\Debug\PetrolinkAppServer.pdb
+C:\Users\Kinni\Documents\Visual Studio 2008\Projects\PetrolinkApp\PetrolinkAppServer\bin\Debug\PetrolinkAppServer.pdb
